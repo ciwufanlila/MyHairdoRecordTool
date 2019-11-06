@@ -1,4 +1,4 @@
-## Welcome to My Hairstyle Record Tool
+## Welcome to My Hairdo Record Tool
 
 ![Image](icon-1024.png)
 
@@ -6,6 +6,6 @@ If you have any questions, you can either leave a message or send the questions 
 
 We will answer them for you in the first time.
 
-### Address: pgvbkhj@163.com
+### Address: mrywvetech@163.com
 
 Thank you!
